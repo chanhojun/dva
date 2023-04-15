@@ -39,6 +39,12 @@ pip install pyairtable
 * Execute the cell blocks sequentially as the later cells are dependent on the earlier cells.
 * Once the last cell has been executed, the csv file used to create the interactive medium will be downloaded and saved in the folder containing the code. The name of the file is data_with_color_names_ranked.csv
 
+### Further Processing on Excel
+
+After receiving the outputted csv file, we performed some additional data cleansing  including:
+* Pivot & Datacleansing of "Style", "Media", "Tags" of minor typo errors
+* Region & Time Period field cleaned for minor typo errors
+* Image Role Dataset with each image's UID and link to the image hosted on GitHub
 
 ## Authors
 
