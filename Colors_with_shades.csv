@@ -1,0 +1,253 @@
+﻿Hex Code,Color Name,RGB,R,G,B,Shade
+#000000,Black,"rgb(0, 0, 0)",0,0,0,Black
+#1B1212,Licorice,"rgb(27, 18, 18)",27,18,18,Black
+#28282B,Matte Black,"rgb(40, 40, 43)",40,40,43,Black
+#00FFFF,Aqua,"rgb(0, 255, 255)",0,255,255,Blue
+#7393B3,Blue Gray,"rgb(115, 147, 179)",115,147,179,Blue
+#F0FFFF,Azure,"rgb(240, 255, 255)",240,255,255,Blue
+#89CFF0,Baby Blue,"rgb(137, 207, 240)",137,207,240,Blue
+#0000FF,Blue,"rgb(0, 0, 255)",0,0,255,Blue
+#0096FF,Bright Blue,"rgb(0, 150, 255)",0,150,255,Blue
+#5F9EA0,Cadet Blue,"rgb(95, 158, 160)",95,158,160,Blue
+#0047AB,Cobalt Blue,"rgb(0, 71, 171)",0,71,171,Blue
+#6495ED,Cornflower Blue,"rgb(100, 149, 237)",100,149,237,Blue
+#00008B,Dark Blue,"rgb(0, 0, 139)",0,0,139,Blue
+#6F8FAF,Denim,"rgb(111, 143, 175)",111,143,175,Blue
+#1434A4,Egyptian Blue,"rgb(20, 52, 164)",20,52,164,Blue
+#3F00FF,Indigo,"rgb(63, 0, 255)",63,0,255,Blue
+#ADD8E6,Light Blue,"rgb(173, 216, 230)",173,216,230,Blue
+#000080,Navy Blue,"rgb(0, 0, 128)",0,0,128,Blue
+#1F51FF,Neon Blue,"rgb(31, 81, 255)",31,81,255,Blue
+#A7C7E7,Pastel Blue,"rgb(167, 199, 231)",167,199,231,Blue
+#B6D0E2,Powder Blue,"rgb(182, 208, 226)",182,208,226,Blue
+#4169E1,Royal Blue,"rgb(65, 105, 225)",65,105,225,Blue
+#0F52BA,Sapphire Blue,"rgb(15, 82, 186)",15,82,186,Blue
+#87CEEB,Sky Blue,"rgb(135, 206, 235)",135,206,235,Blue
+#4682B4,Steel Blue,"rgb(70, 130, 180)",70,130,180,Blue
+#0437F2,Ultramarine,"rgb(4, 55, 242)",4,55,242,Blue
+#0818A8,Zaffre,"rgb(8, 24, 168)",8,24,168,Blue
+#7DF9FF,Electric Blue,"rgb(125, 249, 255)",125,249,255,Blue
+#6082B6,Glaucous,"rgb(96, 130, 182)",96,130,182,Blue
+#191970,Midnight Blue,"rgb(25, 25, 112)",25,25,112,Blue
+#EADDCA,Almond,"rgb(234, 221, 202)",234,221,202,Brown
+#DAA06D,Buff,"rgb(218, 160, 109)",218,160,109,Brown
+#6E260E,Burnt Umber,"rgb(110, 38, 14)",110,38,14,Brown
+#C19A6B,Camel,"rgb(193, 154, 107)",193,154,107,Brown
+#954535,Chestnut,"rgb(149, 69, 53)",149,69,53,Brown
+#D27D2D,Cinnamon,"rgb(210, 125, 45)",210,125,45,Brown
+#7B3F00,Chocolate,"rgb(123, 63, 0)",123,63,0,Brown
+#6F4E37,Coffee,"rgb(111, 78, 55)",111,78,55,Brown
+#834333,Cognac,"rgb(131, 67, 51)",131,67,51,Brown
+#5C4033,Dark Brown,"rgb(92, 64, 51)",92,64,51,Brown
+#B87333,Copper,"rgb(184, 115, 51)",184,115,51,Brown
+#988558,Dark Tan,"rgb(152, 133, 88)",152,133,88,Brown
+#E5AA70,Fawn,"rgb(229, 170, 112)",229,170,112,Brown
+#966919,Golden Brown,"rgb(150, 105, 25)",150,105,25,Brown
+#C4A484,Light Brown,"rgb(196, 164, 132)",196,164,132,Brown
+#967969,Mocha,"rgb(150, 121, 105)",150,121,105,Brown
+#8B4513,Saddle Brown,"rgb(139, 69, 19)",139,69,19,Brown
+#D2B48C,Tan,"rgb(210, 180, 140)",210,180,140,Brown
+#483C32,Taupe,"rgb(72, 60, 50)",72,60,50,Brown
+#FAD5A5,Desert,"rgb(250, 213, 165)",250,213,165,Brown
+#C04000,Mahogany,"rgb(192, 64, 0)",192,64,0,Brown
+#E3BC9A,Nude,"rgb(227, 188, 154)",227,188,154,Brown
+#CC7722,Ochre,"rgb(204, 119, 34)",204,119,34,Brown
+#80461B,Russet,"rgb(128, 70, 27)",128,70,27,Brown
+#C2B280,Sand,"rgb(194, 178, 128)",194,178,128,Brown
+#A0522D,Sienna,"rgb(160, 82, 45)",160,82,45,Brown
+#F5DEB3,Wheat,"rgb(245, 222, 179)",245,222,179,Brown
+#36454F,Charcoal Blue,"rgb(54, 69, 79)",54,69,79,Blue
+#B2BEB5,Ash Gray,"rgb(178, 190, 181)",178,190,181,Green
+#A9A9A9,Dark Gray,"rgb(169, 169, 169)",169,169,169,Gray
+#808080,Gray,"rgb(128, 128, 128)",128,128,128,Gray
+#818589,Gunmetal Gray,"rgb(129, 133, 137)",129,133,137,Gray
+#D3D3D3,Light Gray,"rgb(211, 211, 211)",211,211,211,Gray
+#899499,Pewter,"rgb(137, 148, 153)",137,148,153,Blue
+#E5E4E2,Platinum,"rgb(229, 228, 226)",229,228,226,Gray
+#C0C0C0,Silver,"rgb(192, 192, 192)",192,192,192,Gray
+#708090,Slate Gray,"rgb(112, 128, 144)",112,128,144,Blue
+#848884,Smoke,"rgb(132, 136, 132)",132,136,132,Green
+#71797E,Steel Gray,"rgb(113, 121, 126)",113,121,126,Gray
+#BCC6CC,Metallic Silver,"rgb(188, 198, 204)",188,198,204,Blue
+#DCDCDC,Gainsboro ,"rgb(220, 220, 220)",220,220,220,Gray
+#C9C0BB,Pale Silver,"rgb(201, 192, 187)",201,192,187,Orange
+#D1D0CE,Gray Goose,"rgb(209, 208, 206)",209,208,206,Gray
+#837E7C,Granite,"rgb(131, 126, 124)",131,126,124,Gray
+#625D5D,Carbon Gray,"rgb(98, 93, 93)",98,93,93,Gray
+#52595D,Iron Gray,"rgb(82, 89, 93)",82,89,93,Blue
+#7FFFD4,Aquamarine,"rgb(127, 255, 212)",127,255,212,Green
+#454B1B,Army Green,"rgb(69, 75, 27)",69,75,27,Green
+#088F8F,Blue Green,"rgb(8, 143, 143)",8,143,143,Green
+#AAFF00,Bright Green,"rgb(170, 255, 0)",170,255,0,Green
+#097969,Cadmium Green,"rgb(9, 121, 105)",9,121,105,Green
+#AFE1AF,Celadon,"rgb(175, 225, 175)",175,225,175,Green
+#50C878,Emerald Green,"rgb(80, 200, 120)",80,200,120,Green
+#5F8575,Eucalyptus,"rgb(95, 133, 117)",95,133,117,Green
+#4F7942,Fern Green,"rgb(79, 121, 66)",79,121,66,Green
+#228B22,Forest Green,"rgb(34, 139, 34)",34,139,34,Green
+#7CFC00,Grass Green,"rgb(124, 252, 0)",124,252,0,Green
+#008000,Green,"rgb(0, 128, 0)",0,128,0,Green
+#355E3B,Hunter Green,"rgb(53, 94, 59)",53,94,59,Green
+#2AAA8A,Jungle Green,"rgb(42, 170, 138)",42,170,138,Green
+#4CBB17,Kelly Green,"rgb(76, 187, 23)",76,187,23,Green
+#90EE90,Light Green,"rgb(144, 238, 144)",144,238,144,Green
+#32CD32,Lime Green,"rgb(50, 205, 50)",50,205,50,Green
+#478778,Lincoln Green,"rgb(71, 135, 120)",71,135,120,Green
+#0BDA51,Malachite,"rgb(11, 218, 81)",11,218,81,Green
+#98FB98,Mint Green,"rgb(152, 251, 152)",152,251,152,Green
+#0FFF50,Neon Green,"rgb(15, 255, 80)",15,255,80,Green
+#C1E1C1,Pastel Green,"rgb(193, 225, 193)",193,225,193,Green
+#2E8B57,Sea Green,"rgb(46, 139, 87)",46,139,87,Green
+#009E60,Shamrock Green,"rgb(0, 158, 96)",0,158,96,Green
+#00FF7F,Spring Green,"rgb(0, 255, 127)",0,255,127,Green
+#40826D,Viridian,"rgb(64, 130, 109)",64,130,109,Green
+#023020,Dark Green,"rgb(2, 48, 32)",2,48,32,Green
+#00A36C,Jade,"rgb(0, 163, 108)",0,163,108,Green
+#8A9A5B,Moss Green,"rgb(138, 154, 91)",138,154,91,Green
+#ECFFDC,Nyanza,"rgb(236, 255, 220)",236,255,220,Green
+#808000,Olive Green,"rgb(128, 128, 0)",128,128,0,Green
+#C9CC3F,Pear,"rgb(201, 204, 63)",201,204,63,Green
+#B4C424,Peridot,"rgb(180, 196, 36)",180,196,36,Green
+#93C572,Pistachio,"rgb(147, 197, 114)",147,197,114,Green
+#96DED1,Robin Egg Blue,"rgb(150, 222, 209)",150,222,209,Green
+#B2AC88,Sage Green,"rgb(178, 172, 136)",178,172,136,Green
+#9FE2BF,Seafoam Green,"rgb(159, 226, 191)",159,226,191,Green
+#008080,Teal,"rgb(0, 128, 128)",0,128,128,Green
+#40E0D0,Turquoise,"rgb(64, 224, 208)",64,224,208,Blue
+#40B5AD,Verdigris,"rgb(64, 181, 173)",64,181,173,Green
+#F77A00,Amber Orange,"rgb(247, 122, 0)",247,122,0,Orange
+#FBCEB1,Apricot,"rgb(251, 206, 177)",251,206,177,Orange
+#F2D2BD,Bisque,"rgb(242, 210, 189)",242,210,189,Orange
+#CD7F32,Bronze,"rgb(205, 127, 50)",205,127,50,Orange
+#CC5500,Burnt Orange,"rgb(204, 85, 0)",204,85,0,Orange
+#E97451,Burnt Sienna,"rgb(233, 116, 81)",233,116,81,Orange
+#FF7F50,Coral,"rgb(255, 127, 80)",255,127,80,Orange
+#FFAC1C,Bright Orange,"rgb(255, 172, 28)",255,172,28,Orange
+#E3963E,Butterscotch,"rgb(227, 150, 62)",227,150,62,Orange
+#F28C28,Cadmium Orange,"rgb(242, 140, 40)",242,140,40,Orange
+#8B4000,Dark Orange,"rgb(139, 64, 0)",139,64,0,Orange
+#E49B0F,Gamboge,"rgb(228, 155, 15)",228,155,15,Orange
+#FFD580,Light Orange,"rgb(255, 213, 128)",255,213,128,Orange
+#FF5F1F,Neon Orange,"rgb(255, 95, 31)",255,95,31,Orange
+#FFA500,Orange,"rgb(255, 165, 0)",255,165,0,Orange
+#FAC898,Pastel Orange,"rgb(250, 200, 152)",250,200,152,Orange
+#FF7518,Pumpkin Orange,"rgb(255, 117, 24)",255,117,24,Orange
+#FF5F15,Safety Orange,"rgb(255, 95, 21)",255,95,21,Orange
+#F08000,Tangerine,"rgb(240, 128, 0)",240,128,0,Orange
+#EC5800,Persimmon,"rgb(236, 88, 0)",236,88,0,Orange
+#F89880,Pink Orange,"rgb(248, 152, 128)",248,152,128,Orange
+#E35335,Poppy,"rgb(227, 83, 53)",227,83,53,Orange
+#FF4433,Red Orange,"rgb(255, 68, 51)",255,68,51,Orange
+#FA8072,Salmon,"rgb(250, 128, 114)",250,128,114,Orange
+#FA5F55,Sunset Orange,"rgb(250, 95, 85)",250,95,85,Orange
+#E3735E,Terra Cotta,"rgb(227, 115, 94)",227,115,94,Orange
+#FFAA33,Yellow Orange,"rgb(255, 170, 51)",255,170,51,Orange
+#9F2B68,Amaranth,"rgb(159, 43, 104)",159,43,104,Pink
+#DE3163,Cerise,"rgb(222, 49, 99)",222,49,99,Pink
+#F88379,Coral Pink,"rgb(248, 131, 121)",248,131,121,Pink
+#AA336A,Dark Pink,"rgb(170, 51, 106)",170,51,106,Pink
+#FF00FF,Fuchsia,"rgb(255, 0, 255)",255,0,255,Pink
+#C9A9A6,Dusty Rose,"rgb(201, 169, 166)",201,169,166,Pink
+#FF69B4,Hot Pink,"rgb(255, 105, 180)",255,105,180,Pink
+#FFB6C1,Light Pink,"rgb(255, 182, 193)",255,182,193,Pink
+#F3CFC6,Millennial Pink,"rgb(243, 207, 198)",243,207,198,Pink
+#FF10F0,Neon Pink,"rgb(255, 16, 240)",255,16,240,Pink
+#F8C8DC,Pastel Pink,"rgb(248, 200, 220)",248,200,220,Pink
+#FFC0CB,Pink,"rgb(255, 192, 203)",255,192,203,Pink
+#F33A6A,Rose,"rgb(243, 58, 106)",243,58,106,Pink
+#E0BFB8,Rose Gold,"rgb(224, 191, 184)",224,191,184,Pink
+#E37383,Watermelon Pink,"rgb(227, 115, 131)",227,115,131,Pink
+#FAA0A0,Pastel,"rgb(250, 160, 160)",250,160,160,Pink
+#673147,Plum,"rgb(103, 49, 71)",103,49,71,Pink
+#A95C68,Puce,"rgb(169, 92, 104)",169,92,104,Pink
+#E30B5C,Raspberry,"rgb(227, 11, 92)",227,11,92,Pink
+#953553,Red Purple,"rgb(149, 53, 83)",149,53,83,Pink
+#C21E56,Rose Red,"rgb(194, 30, 86)",194,30,86,Pink
+#E0115F,Ruby Red,"rgb(224, 17, 95)",224,17,95,Pink
+#702963,Byzantium,"rgb(112, 41, 99)",112,41,99,Purple
+#301934,Dark Purple,"rgb(48, 25, 52)",48,25,52,Purple
+#5D3FD3,Iris,"rgb(93, 63, 211)",93,63,211,Purple
+#DA70D6,Orchid,"rgb(218, 112, 214)",218,112,214,Purple
+#BF40BF,Bright Purple,"rgb(191, 64, 191)",191,64,191,Purple
+#483248,Eggplant,"rgb(72, 50, 72)",72,50,72,Purple
+#E6E6FA,Lavender,"rgb(230, 230, 250)",230,230,250,Purple
+#CBC3E3,Light Purple,"rgb(203, 195, 227)",203,195,227,Purple
+#CF9FFF,Light Violet,"rgb(207, 159, 255)",207,159,255,Purple
+#AA98A9,Lilac,"rgb(170, 152, 169)",170,152,169,Purple
+#E0B0FF,Mauve,"rgb(224, 176, 255)",224,176,255,Purple
+#915F6D,Mauve Taupe,"rgb(145, 95, 109)",145,95,109,Purple
+#C3B1E1,Pastel Purple,"rgb(195, 177, 225)",195,177,225,Purple
+#51414F,Quartz,"rgb(81, 65, 79)",81,65,79,Purple
+#CCCCFF,Periwinkle,"rgb(204, 204, 255)",204,204,255,Purple
+#7F00FF,Violet,"rgb(127, 0, 255)",127,0,255,Purple
+#BDB5D5,Wisteria,"rgb(189, 181, 213)",189,181,213,Purple
+#800080,Purple,"rgb(128, 0, 128)",128,0,128,Purple
+#D8BFD8,Thistle,"rgb(216, 191, 216)",216,191,216,Purple
+#A52A2A,Auburn,"rgb(165, 42, 42)",165,42,42,Red
+#800020,Burgundy,"rgb(128, 0, 32)",128,0,32,Red
+#811331,Claret,"rgb(129, 19, 49)",129,19,49,Red
+#814141,Cordovan,"rgb(129, 65, 65)",129,65,65,Red
+#DC143C,Crimson,"rgb(220, 20, 60)",220,20,60,Red
+#8B0000,Dark Red,"rgb(139, 0, 0)",139,0,0,Red
+#9A2A2A,Garnet,"rgb(154, 42, 42)",154,42,42,Red
+#800000,Maroon,"rgb(128, 0, 0)",128,0,0,Red
+#770737,Mulberry,"rgb(119, 7, 55)",119,7,55,Red
+#4A0404,Oxblood,"rgb(74, 4, 4)",74,4,4,Red
+#880808,Blood Red,"rgb(136, 8, 8)",136,8,8,Red
+#AA4A44,Brick Red,"rgb(170, 74, 68)",170,74,68,Red
+#EE4B2B,Bright Red,"rgb(238, 75, 43)",238,75,43,Red
+#D22B2B,Cadmium Red,"rgb(210, 43, 43)",210,43,43,Red
+#C41E3A,Cardinal Red,"rgb(196, 30, 58)",196,30,58,Red
+#D70040,Carmine,"rgb(215, 0, 64)",215,0,64,Red
+#D2042D,Cherry,"rgb(210, 4, 45)",210,4,45,Red
+#7B1818,Falu Red,"rgb(123, 24, 24)",123,24,24,Red
+#986868,Marsala,"rgb(152, 104, 104)",152,104,104,Red
+#FF3131,Neon Red,"rgb(255, 49, 49)",255,49,49,Red
+#913831,Red Ochre,"rgb(145, 56, 49)",145,56,49,Red
+#FF0000,Red,"rgb(255, 0, 0)",255,0,0,Red
+#FF2400,Scarlet,"rgb(255, 36, 0)",255,36,0,Red
+#A42A04,Venetian Red,"rgb(164, 42, 4)",164,42,4,Red
+#E34234,Vermillion,"rgb(227, 66, 52)",227,66,52,Red
+#7C3030,Tuscan Red,"rgb(124, 48, 48)",124,48,48,Red
+#630330,Tyrian Purple,"rgb(99, 3, 48)",99,3,48,Red
+#722F37,Wine,"rgb(114, 47, 55)",114,47,55,Red
+#FFF8DC,Cornsilk,"rgb(255, 248, 220)",255,248,220,White
+#FFFFF0,Ivory,"rgb(255, 255, 240)",255,255,240,White
+#EDEADE,Alabaster,"rgb(237, 234, 222)",237,234,222,White
+#F9F6EE,Bone White,"rgb(249, 246, 238)",249,246,238,White
+#F0EAD6,Eggshell,"rgb(240, 234, 214)",240,234,214,White
+#E9DCC9,Linen,"rgb(233, 220, 201)",233,220,201,White
+#FAF9F6,Off White,"rgb(250, 249, 246)",250,249,246,White
+#FCF5E5,Parchment,"rgb(252, 245, 229)",252,245,229,White
+#E2DFD2,Pearl,"rgb(226, 223, 210)",226,223,210,White
+#FFF5EE,Seashell,"rgb(255, 245, 238)",255,245,238,White
+#FFFFFF,White,"rgb(255, 255, 255)",255,255,255,White
+#FFBF00,Amber Yellow,"rgb(255, 191, 0)",255,191,0,Yellow
+#F5F5DC,Beige,"rgb(245, 245, 220)",245,245,220,Yellow
+#E1C16E,Brass,"rgb(225, 193, 110)",225,193,110,Yellow
+#DFFF00,Chartreuse,"rgb(223, 255, 0)",223,255,0,Yellow
+#E4D00A,Citrine,"rgb(228, 208, 10)",228,208,10,Yellow
+#FFFDD0,Cream,"rgb(255, 253, 208)",255,253,208,Yellow
+#FFC000,Golden Yellow,"rgb(255, 192, 0)",255,192,0,Yellow
+#DAA520,Goldenrod,"rgb(218, 165, 32)",218,165,32,Yellow
+#F0E68C,Khaki,"rgb(240, 230, 140)",240,230,140,Yellow
+#F4BB44,Mango,"rgb(244, 187, 68)",244,187,68,Yellow
+#FFDEAD,Navajo White,"rgb(255, 222, 173)",255,222,173,Yellow
+#FFE5B4,Peach,"rgb(255, 229, 180)",255,229,180,Yellow
+#FFEA00,Bright Yellow,"rgb(255, 234, 0)",255,234,0,Yellow
+#FDDA0D,Cadmium Yellow,"rgb(253, 218, 13)",253,218,13,Yellow
+#FFFF8F,Canary Yellow,"rgb(255, 255, 143)",255,255,143,Yellow
+#8B8000,Dark Yellow,"rgb(139, 128, 0)",139,128,0,Yellow
+#EEDC82,Flax,"rgb(238, 220, 130)",238,220,130,Yellow
+#FFD700,Gold,"rgb(255, 215, 0)",255,215,0,Yellow
+#FCF55F,Icterine,"rgb(252, 245, 95)",252,245,95,Yellow
+#F8DE7E,Jasmine,"rgb(248, 222, 126)",248,222,126,Yellow
+#FAFA33,Lemon Yellow,"rgb(250, 250, 51)",250,250,51,Yellow
+#FBEC5D,Maize,"rgb(251, 236, 93)",251,236,93,Yellow
+#F3E5AB,Vanilla,"rgb(243, 229, 171)",243,229,171,Yellow
+#FFDB58,Mustard Yellow,"rgb(255, 219, 88)",255,219,88,Yellow
+#FADA5E,Naples Yellow,"rgb(250, 218, 94)",250,218,94,Yellow
+#C4B454,Vegas Gold,"rgb(196, 180, 84)",196,180,84,Yellow
+#FFFAA0,Pastel Yellow,"rgb(255, 250, 160)",255,250,160,Yellow
+#F4C430,Saffron,"rgb(244, 196, 48)",244,196,48,Yellow
+#FFFF00,Yellow,"rgb(255, 255, 0)",255,255,0,Yellow
